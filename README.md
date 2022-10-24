@@ -2,6 +2,8 @@
 
 <p> - Eu me chamo <a href="https://www.linkedin.com/in/lisandracunha/">Lisandra Cunha</a> e estudo Desenvolvimento Web Java no <a href="https://www.proa.org.br/">Instituto Proa</a>!</p>
 
+<br>
+
 <div align="center">
   <a href="https://github.com/lisandrasc">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lisandrasc&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
