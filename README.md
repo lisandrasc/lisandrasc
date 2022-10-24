@@ -1,11 +1,11 @@
 ## Sejam bem-vindos ao meu Github :)
 
-<p> Eu me chamo <a href="https://www.linkedin.com/in/lisandracunha/">Lisandra Cunha</a> e estudo Desenvolvimento Web Java no <a href="https://www.proa.org.br/">Instituto Proa</a>!</p>
+<p> - Eu me chamo <a href="https://www.linkedin.com/in/lisandracunha/">Lisandra Cunha</a> e estudo Desenvolvimento Web Java no <a href="https://www.proa.org.br/">Instituto Proa</a>!</p>
 
 <div align="center">
   <a href="https://github.com/lisandrasc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lisandrasc&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisandrasc&layout=compact&langs_count=7&theme=aura"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lisandrasc&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisandrasc&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 <div align="center"style="display: inline_block"><br>
