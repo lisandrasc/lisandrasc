@@ -1,6 +1,6 @@
 ## Sejam bem-vindos ao meu Github :)
 
-👩‍💻 Eu me chamo <a href="https://www.linkedin.com/in/lisandracunha/">Lisandra Cunha</a> e estudo Desenvolvimento Web Java no <a href="https://www.proa.org.br/">Instituto Proa</a>!
+👩‍💻 Eu me chamo <a href="https://www.linkedin.com/in/lisandracunha/">Lisandra Cunha</a> e estudo Programação Web Java no <a href="https://www.proa.org.br/">Instituto Proa</a>!
 
 <br>
 
