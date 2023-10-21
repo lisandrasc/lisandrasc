@@ -1,6 +1,7 @@
 ## Sejam bem-vindos ao meu Github :)
 
- - 👩‍💻 Eu me chamo <a href="https://www.linkedin.com/in/lisandracunha/">Lisandra Cunha</a> :)
+ - 👩🏽 Eu me chamo <a href="https://www.linkedin.com/in/lisandracunha/">Lisandra Cunha</a> :)
+ - 👩‍💻 Desenvolvedora de Sistemas no <a href="https://banco.bradesco/html/classic/index.shtm"> Banco Bradesco </a>.
  - 💻 Estudante de Análise e Desenvolvimento de Sistemas na <a href="https://www.sptech.school/">SPTech - São Paulo Tech School</a>. 
  - 🌐 Também estudei Programação Web Java no <a href="https://www.proa.org.br/">Instituto Proa</a>!
 
